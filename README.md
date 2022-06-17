@@ -1,0 +1,2 @@
+# CubingTimerDT
+desktop cubing app
