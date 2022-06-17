@@ -1,0 +1,17 @@
+C:\Users\levva\source\repos\cube\cube\bin\Debug\cube.exe.config
+C:\Users\levva\source\repos\cube\cube\bin\Debug\cube.exe
+C:\Users\levva\source\repos\cube\cube\bin\Debug\cube.pdb
+C:\Users\levva\source\repos\cube\cube\obj\Debug\cube.csproj.AssemblyReference.cache
+C:\Users\levva\source\repos\cube\cube\obj\Debug\CubingPage.g.cs
+C:\Users\levva\source\repos\cube\cube\obj\Debug\MainWindow.g.cs
+C:\Users\levva\source\repos\cube\cube\obj\Debug\App.g.cs
+C:\Users\levva\source\repos\cube\cube\obj\Debug\cube_MarkupCompile.cache
+C:\Users\levva\source\repos\cube\cube\obj\Debug\cube_MarkupCompile.lref
+C:\Users\levva\source\repos\cube\cube\obj\Debug\CubingPage.baml
+C:\Users\levva\source\repos\cube\cube\obj\Debug\MainWindow.baml
+C:\Users\levva\source\repos\cube\cube\obj\Debug\cube.g.resources
+C:\Users\levva\source\repos\cube\cube\obj\Debug\cube.Properties.Resources.resources
+C:\Users\levva\source\repos\cube\cube\obj\Debug\cube.csproj.GenerateResource.cache
+C:\Users\levva\source\repos\cube\cube\obj\Debug\cube.csproj.CoreCompileInputs.cache
+C:\Users\levva\source\repos\cube\cube\obj\Debug\cube.exe
+C:\Users\levva\source\repos\cube\cube\obj\Debug\cube.pdb
